@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.8978a734.chunk.css",
+    "main.js": "/my-app/static/js/main.1ea31e94.chunk.js",
+    "main.js.map": "/my-app/static/js/main.1ea31e94.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.3dc9c7aa.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.3dc9c7aa.js.map",
+    "static/css/2.3247ab99.chunk.css": "/my-app/static/css/2.3247ab99.chunk.css",
+    "static/js/2.65aa03eb.chunk.js": "/my-app/static/js/2.65aa03eb.chunk.js",
+    "static/js/2.65aa03eb.chunk.js.map": "/my-app/static/js/2.65aa03eb.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.b766fb5657f1b94467cab47f92a0d673.js": "/my-app/precache-manifest.b766fb5657f1b94467cab47f92a0d673.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/2.3247ab99.chunk.css.map": "/my-app/static/css/2.3247ab99.chunk.css.map",
+    "static/css/main.8978a734.chunk.css.map": "/my-app/static/css/main.8978a734.chunk.css.map",
+    "static/js/2.65aa03eb.chunk.js.LICENSE": "/my-app/static/js/2.65aa03eb.chunk.js.LICENSE",
+    "static/media/cpu.png": "/my-app/static/media/cpu.c6b0cdaa.png",
+    "static/media/download.jpg": "/my-app/static/media/download.abc37022.jpg",
+    "static/media/download1.jpg": "/my-app/static/media/download1.ff558db7.jpg",
+    "static/media/download3.jpg": "/my-app/static/media/download3.c7343da5.jpg",
+    "static/media/gpu.png": "/my-app/static/media/gpu.734138fe.png",
+    "static/media/hdd.png": "/my-app/static/media/hdd.c715f9f1.png",
+    "static/media/keyboard.png": "/my-app/static/media/keyboard.cf4dbfd7.png",
+    "static/media/mainboard.png": "/my-app/static/media/mainboard.7e299633.png",
+    "static/media/mouse-pad.png": "/my-app/static/media/mouse-pad.7362b480.png",
+    "static/media/mouse.png": "/my-app/static/media/mouse.b917c85f.png",
+    "static/media/ram.png": "/my-app/static/media/ram.aaf4b879.png",
+    "static/media/slick-theme.css": "/my-app/static/media/slick.f97e3bbf.svg",
+    "static/media/sound-card.png": "/my-app/static/media/sound-card.28c40e26.png",
+    "static/media/ssd.png": "/my-app/static/media/ssd.70788ac6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dc9c7aa.js",
+    "static/css/2.3247ab99.chunk.css",
+    "static/js/2.65aa03eb.chunk.js",
+    "static/css/main.8978a734.chunk.css",
+    "static/js/main.1ea31e94.chunk.js"
+  ]
+}
