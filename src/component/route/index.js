@@ -16,7 +16,7 @@ class MyRoute extends React.Component {
   render () {
     return (
       <Switch>
-        <Route exact path="/" component={Home} />
+        <Route path={process.env.PUBLIC_URL + '/'} component={Home} />
 
         {
           navRoute.map(nav => (
