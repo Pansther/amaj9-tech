@@ -6,13 +6,15 @@ import '../../css/navbarStyle.css';
 import {menuData} from './menuData.js';
 import MenuList from './MenuList.js';
 
+import { Link } from 'react-router-dom';
+
 class Navbar extends React.Component {
   render () {
     //console.log(menuData);
     return (
       <div className='navbar-container'>
         <div className='logo-box'>
-          <a href='/home' id='logo'>Amaj9 Tech</a>
+          <Link to='/home' id='logo'>Amaj9 Tech</Link>
         </div>
         <div className='menu-box'>
         {
