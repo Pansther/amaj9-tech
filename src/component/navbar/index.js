@@ -22,6 +22,7 @@ class Navbar extends React.Component {
               <MenuList key={menu.id} name={menu.name} href={menu.route}/>
           ))
         }
+        <Link to='/topics'>topics</Link>
         </div>
       </div>
     );
