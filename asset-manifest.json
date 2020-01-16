@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/amaj9-tech/static/css/main.8978a734.chunk.css",
-    "main.js": "/amaj9-tech/static/js/main.8d2d45b3.chunk.js",
-    "main.js.map": "/amaj9-tech/static/js/main.8d2d45b3.chunk.js.map",
+    "main.css": "/amaj9-tech/static/css/main.796fcdf7.chunk.css",
+    "main.js": "/amaj9-tech/static/js/main.0db786b0.chunk.js",
+    "main.js.map": "/amaj9-tech/static/js/main.0db786b0.chunk.js.map",
     "runtime-main.js": "/amaj9-tech/static/js/runtime-main.a6338334.js",
     "runtime-main.js.map": "/amaj9-tech/static/js/runtime-main.a6338334.js.map",
     "static/css/2.d9e79ebb.chunk.css": "/amaj9-tech/static/css/2.d9e79ebb.chunk.css",
-    "static/js/2.1cc7f7e5.chunk.js": "/amaj9-tech/static/js/2.1cc7f7e5.chunk.js",
-    "static/js/2.1cc7f7e5.chunk.js.map": "/amaj9-tech/static/js/2.1cc7f7e5.chunk.js.map",
+    "static/js/2.f7fcda9b.chunk.js": "/amaj9-tech/static/js/2.f7fcda9b.chunk.js",
+    "static/js/2.f7fcda9b.chunk.js.map": "/amaj9-tech/static/js/2.f7fcda9b.chunk.js.map",
     "index.html": "/amaj9-tech/index.html",
-    "precache-manifest.325b83d2ce5dfa23a548ddb625c095a2.js": "/amaj9-tech/precache-manifest.325b83d2ce5dfa23a548ddb625c095a2.js",
+    "precache-manifest.00bf1f568898b0afb301a1ac4a1cfff9.js": "/amaj9-tech/precache-manifest.00bf1f568898b0afb301a1ac4a1cfff9.js",
     "service-worker.js": "/amaj9-tech/service-worker.js",
     "static/css/2.d9e79ebb.chunk.css.map": "/amaj9-tech/static/css/2.d9e79ebb.chunk.css.map",
-    "static/css/main.8978a734.chunk.css.map": "/amaj9-tech/static/css/main.8978a734.chunk.css.map",
-    "static/js/2.1cc7f7e5.chunk.js.LICENSE": "/amaj9-tech/static/js/2.1cc7f7e5.chunk.js.LICENSE",
+    "static/css/main.796fcdf7.chunk.css.map": "/amaj9-tech/static/css/main.796fcdf7.chunk.css.map",
+    "static/js/2.f7fcda9b.chunk.js.LICENSE": "/amaj9-tech/static/js/2.f7fcda9b.chunk.js.LICENSE",
     "static/media/cpu.png": "/amaj9-tech/static/media/cpu.c6b0cdaa.png",
     "static/media/download.jpg": "/amaj9-tech/static/media/download.abc37022.jpg",
     "static/media/download1.jpg": "/amaj9-tech/static/media/download1.ff558db7.jpg",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.a6338334.js",
     "static/css/2.d9e79ebb.chunk.css",
-    "static/js/2.1cc7f7e5.chunk.js",
-    "static/css/main.8978a734.chunk.css",
-    "static/js/main.8d2d45b3.chunk.js"
+    "static/js/2.f7fcda9b.chunk.js",
+    "static/css/main.796fcdf7.chunk.css",
+    "static/js/main.0db786b0.chunk.js"
   ]
 }
