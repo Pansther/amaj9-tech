@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e7562524296271656a514df80528b3e1",
+    "revision": "7e7bf353897996a39e90524557bf12c9",
     "url": "/amaj9-tech/index.html"
   },
   {
-    "revision": "02ae56fde7b5564f065a",
+    "revision": "bd10b2680a5b7f88e20c",
     "url": "/amaj9-tech/static/css/2.d9e79ebb.chunk.css"
   },
   {
-    "revision": "c6ba7b7691556c7d6928",
-    "url": "/amaj9-tech/static/css/main.9229a071.chunk.css"
+    "revision": "0715c9d6c4a20459a2cf",
+    "url": "/amaj9-tech/static/css/main.bf4b5914.chunk.css"
   },
   {
-    "revision": "02ae56fde7b5564f065a",
-    "url": "/amaj9-tech/static/js/2.87588410.chunk.js"
+    "revision": "bd10b2680a5b7f88e20c",
+    "url": "/amaj9-tech/static/js/2.a1948bbf.chunk.js"
   },
   {
     "revision": "86afaa925e0f432774bf95b19b6933fb",
-    "url": "/amaj9-tech/static/js/2.87588410.chunk.js.LICENSE"
+    "url": "/amaj9-tech/static/js/2.a1948bbf.chunk.js.LICENSE"
   },
   {
-    "revision": "c6ba7b7691556c7d6928",
-    "url": "/amaj9-tech/static/js/main.4265f855.chunk.js"
+    "revision": "0715c9d6c4a20459a2cf",
+    "url": "/amaj9-tech/static/js/main.29ad0412.chunk.js"
   },
   {
     "revision": "1f846251f2d287bc56e4",
@@ -30,6 +30,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c6b0cdaa2651a6e218ea2a4b53cc7611",
     "url": "/amaj9-tech/static/media/cpu.c6b0cdaa.png"
+  },
+  {
+    "revision": "3ee61582e8a589ad1ddb745923015b62",
+    "url": "/amaj9-tech/static/media/cpu_1_1.3ee61582.jpg"
+  },
+  {
+    "revision": "c848c25bede300c3ceead17e00410e0a",
+    "url": "/amaj9-tech/static/media/cpu_2_1.c848c25b.jpg"
+  },
+  {
+    "revision": "f5fd647f38638b98c5f5845d0317dfcc",
+    "url": "/amaj9-tech/static/media/cpu_3_1.f5fd647f.jpg"
+  },
+  {
+    "revision": "bd4292d147aebf506b6e0dec1511362a",
+    "url": "/amaj9-tech/static/media/cpu_4_1.bd4292d1.jpg"
   },
   {
     "revision": "abc37022736bcc61af3127680be72032",
@@ -44,12 +60,44 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/amaj9-tech/static/media/download3.c7343da5.jpg"
   },
   {
+    "revision": "d3d5088f6491df12be40d840fcc12e2d",
+    "url": "/amaj9-tech/static/media/facebook.d3d5088f.svg"
+  },
+  {
+    "revision": "db0721b19bf1b047866172744342786f",
+    "url": "/amaj9-tech/static/media/github.db0721b1.svg"
+  },
+  {
     "revision": "734138fed54c7aa86b2dd4f185c2748a",
     "url": "/amaj9-tech/static/media/gpu.734138fe.png"
   },
   {
     "revision": "c715f9f19a94095faf67cf4e02644f58",
     "url": "/amaj9-tech/static/media/hdd.c715f9f1.png"
+  },
+  {
+    "revision": "bf5952e3a3416ca273def0aa7053ea4c",
+    "url": "/amaj9-tech/static/media/hdd_1_1.bf5952e3.jpg"
+  },
+  {
+    "revision": "c43103f60d969429eb6a062af3729b7d",
+    "url": "/amaj9-tech/static/media/hdd_2_1.c43103f6.jpg"
+  },
+  {
+    "revision": "58fc486642ab4c00a4804a644cb152d0",
+    "url": "/amaj9-tech/static/media/hdd_3_1.58fc4866.jpg"
+  },
+  {
+    "revision": "394ecb0f76acc4d5d327dbfa57fa73ac",
+    "url": "/amaj9-tech/static/media/hdd_4_1.394ecb0f.jpg"
+  },
+  {
+    "revision": "7d4a38f7ef86d8afd56479e897c4cba2",
+    "url": "/amaj9-tech/static/media/hdd_5_1.7d4a38f7.jpg"
+  },
+  {
+    "revision": "bb3fda5c6302b48820cdb70cbec5c4c4",
+    "url": "/amaj9-tech/static/media/instagram.bb3fda5c.svg"
   },
   {
     "revision": "cf4dbfd7b8d5d6eb10110d7b9332fd63",
@@ -178,5 +226,25 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "70788ac6dc35a2de480743f4870cb6ae",
     "url": "/amaj9-tech/static/media/ssd.70788ac6.png"
+  },
+  {
+    "revision": "fb4319cc07c1d7442f10debcd9c83b38",
+    "url": "/amaj9-tech/static/media/ssd_1_1.fb4319cc.jpg"
+  },
+  {
+    "revision": "689524cc139de6e1a341be7aa4ab80cf",
+    "url": "/amaj9-tech/static/media/ssd_2_1.689524cc.jpg"
+  },
+  {
+    "revision": "68b0c76bb2563a19111eb45e63df36c2",
+    "url": "/amaj9-tech/static/media/ssd_3_1.68b0c76b.jpg"
+  },
+  {
+    "revision": "4f41a9846006dbe195ddcf426c32c502",
+    "url": "/amaj9-tech/static/media/twitter.4f41a984.svg"
+  },
+  {
+    "revision": "2187b0bb0bb26e682b4554bc4791a2ae",
+    "url": "/amaj9-tech/static/media/vk.2187b0bb.svg"
   }
 ]);
