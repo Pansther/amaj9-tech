@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/amaj9-tech/static/css/main.bf4b5914.chunk.css",
-    "main.js": "/amaj9-tech/static/js/main.29ad0412.chunk.js",
-    "main.js.map": "/amaj9-tech/static/js/main.29ad0412.chunk.js.map",
+    "main.css": "/amaj9-tech/static/css/main.baa396d1.chunk.css",
+    "main.js": "/amaj9-tech/static/js/main.4ff97f18.chunk.js",
+    "main.js.map": "/amaj9-tech/static/js/main.4ff97f18.chunk.js.map",
     "runtime-main.js": "/amaj9-tech/static/js/runtime-main.a6338334.js",
     "runtime-main.js.map": "/amaj9-tech/static/js/runtime-main.a6338334.js.map",
     "static/css/2.d9e79ebb.chunk.css": "/amaj9-tech/static/css/2.d9e79ebb.chunk.css",
-    "static/js/2.a1948bbf.chunk.js": "/amaj9-tech/static/js/2.a1948bbf.chunk.js",
-    "static/js/2.a1948bbf.chunk.js.map": "/amaj9-tech/static/js/2.a1948bbf.chunk.js.map",
+    "static/js/2.ce6dac8d.chunk.js": "/amaj9-tech/static/js/2.ce6dac8d.chunk.js",
+    "static/js/2.ce6dac8d.chunk.js.map": "/amaj9-tech/static/js/2.ce6dac8d.chunk.js.map",
     "index.html": "/amaj9-tech/index.html",
-    "precache-manifest.dbca3d4d67cb61c2a7802b03a008e7fd.js": "/amaj9-tech/precache-manifest.dbca3d4d67cb61c2a7802b03a008e7fd.js",
+    "precache-manifest.45da743e910a85df50844116f4b60b97.js": "/amaj9-tech/precache-manifest.45da743e910a85df50844116f4b60b97.js",
     "service-worker.js": "/amaj9-tech/service-worker.js",
     "static/css/2.d9e79ebb.chunk.css.map": "/amaj9-tech/static/css/2.d9e79ebb.chunk.css.map",
-    "static/css/main.bf4b5914.chunk.css.map": "/amaj9-tech/static/css/main.bf4b5914.chunk.css.map",
-    "static/js/2.a1948bbf.chunk.js.LICENSE": "/amaj9-tech/static/js/2.a1948bbf.chunk.js.LICENSE",
+    "static/css/main.baa396d1.chunk.css.map": "/amaj9-tech/static/css/main.baa396d1.chunk.css.map",
+    "static/js/2.ce6dac8d.chunk.js.LICENSE": "/amaj9-tech/static/js/2.ce6dac8d.chunk.js.LICENSE",
     "static/media/cpu.png": "/amaj9-tech/static/media/cpu.c6b0cdaa.png",
     "static/media/cpu_1_1.jpg": "/amaj9-tech/static/media/cpu_1_1.3ee61582.jpg",
     "static/media/cpu_2_1.jpg": "/amaj9-tech/static/media/cpu_2_1.c848c25b.jpg",
@@ -70,8 +70,8 @@
   "entrypoints": [
     "static/js/runtime-main.a6338334.js",
     "static/css/2.d9e79ebb.chunk.css",
-    "static/js/2.a1948bbf.chunk.js",
-    "static/css/main.bf4b5914.chunk.css",
-    "static/js/main.29ad0412.chunk.js"
+    "static/js/2.ce6dac8d.chunk.js",
+    "static/css/main.baa396d1.chunk.css",
+    "static/js/main.4ff97f18.chunk.js"
   ]
 }
