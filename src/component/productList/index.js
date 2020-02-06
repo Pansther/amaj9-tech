@@ -19,13 +19,13 @@ const CategoryBarItem =(props)=> {
 
 const CategoryBar =()=> {
   return (
-    <>
+    <div className='category-bar'>
       {
         categoryData.map(cate => (
           <CategoryBarItem key={cate.id} name={cate.name} href={cate.href} />
         ))
       }
-    </>
+    </div>
   );
 }
 
@@ -34,7 +34,7 @@ const CreateProduct =(props)=> {
   //console.log(props.id);
   return (
     <div className='product' id={props.id}>
-      <Link className='img-box' to='#'>
+      <Link className='img-box' to={`/category/${props.type}/${props.id}` }>
         <img src={props.cover} alt={props.name}/>
       </Link>
       <div className='detail-box'>
@@ -58,9 +58,7 @@ class ProductList extends React.Component {
     //console.log(this.props.productDataList);
     return (
       <div className='product-box' id={this.props.name}>
-        <div className='category-bar'>
           <CategoryBar />
-        </div>
 
         <div className='product-list' id={this.props.name}>
           <div className='product-name' id={this.props.name}>
@@ -69,7 +67,7 @@ class ProductList extends React.Component {
           <div className='all-product'>
             {
               this.props.productDataList.map(product => (
-                <CreateProduct key={product.id} id ={product.id} name={product.name} cover={product.pic.img1} detail={product.detail} price={product.price} />
+                <CreateProduct key={product.id} id={product.id} name={product.name} cover={product.pic[0]} detail={product.detail} price={product.price} type={this.props.type}/>
               ))
             }
           </div>

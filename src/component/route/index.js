@@ -5,11 +5,16 @@ import { Switch } from 'react-router-dom'
 
 import { navRoute } from './navRoute.js';
 import CreateRoute from './createRoute.js';
+import ProductList from '../productList/index.js';
 
 /// pages
 import Home from '../../pages/home/index.js';
+import Category from '../../pages/category/index.js';
 import NotFoundPage from '../../pages/notfound/index.js';
+import {sink} from '../../pages/home/bestseller.js'
 
+
+import Sinkha from '../../pages/home/sinkha.js';
 /*
 {
   categoryRoute.map(cate => (
